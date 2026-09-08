@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.playwright-cli/
+.vercel/
+.env*
+.DS_Store
+*.log
+
+.vercel
+.env*
